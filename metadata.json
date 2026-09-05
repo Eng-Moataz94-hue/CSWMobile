@@ -1,0 +1,6 @@
+{
+  "name": "CSWMobile",
+  "description": "Collaborative Student Workspace native Android client for connecting to ChatServer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

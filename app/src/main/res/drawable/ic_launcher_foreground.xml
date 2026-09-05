@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Collaborative Student Workspace Icon -->
+    <!-- Central Workspace Screen / Tablet Frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32 h44 c3.3,0 6,2.7 6,6 v28 c0,3.3 -2.7,6 -6,6 h-44 c-3.3,0 -6,-2.7 -6,-6 v-28 c0,-3.3 2.7,-6 6,-6 z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M35,36 h38 c1.7,0 3,1.3 3,3 v20 c0,1.7 -1.3,3 -3,3 h-38 c-1.7,0 -3,-1.3 -3,-3 v-20 c0,-1.7 1.3,-3 3,-3 z" />
+    <!-- Three Student / Member Avatars Inside Screen -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,45 a3,3 0 1,0 0.01,0 z M54,43 a3.5,3.5 0 1,0 0.01,0 z M64,45 a3,3 0 1,0 0.01,0 z" />
+    <!-- Connected Collaboration Arc -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M38,58 c0,-4 4,-6 6,-6 c2,0 3,1 4,2 c2,-2 4,-3 6,-3 c2,0 4,1 6,3 c1,-1 2,-2 4,-2 c2,0 6,2 6,6 z" />
+    <!-- Academic Graduation Cap Badge in Corner -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,23 L69,30 L54,37 L39,30 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M66,31 v6 c0,2 -2,4 -5,4 s-5,-2 -5,-4 v-6 z" />
+    <!-- Small Connection Dot -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M70,64 a3,3 0 1,0 0.01,0 z" />
+</vector>
